@@ -33,7 +33,7 @@ Eg. if the case is like this</p>
 </code></pre>
 <p>The json needs to be structured for size and readability both.</p>
 <h2 id="tldr">TL;DR</h2>
-<p><a href="https://gist.github.com/kaustubh-ex2/9ba0f2907c4ef8c9ae320e7ad7be3f39#attempt-5">Attempt #5</a> is chosen.</p>
+<p><a href="#attempt-5">Attempt #5</a> is chosen.</p>
 <h2 id="attempt-1">Attempt #1</h2>
 <p>Json looks like (i.e JSON1.json)</p>
 <pre class=" language-json"><code class="prism  language-json"><span class="token punctuation">{</span>
@@ -250,7 +250,7 @@ We can skip that step and directly make changes in the new list.</p>
 <td>4.1</td>
 </tr>
 </tbody>
-</table><h2 id="attempt-5">Attempt #5</h2>
+</table><h2 id="attempt-5">Attempt 5</h2>
 <p>JSON is in a new format i.e. JSON3.json<br>
 It is more uniform with the current style of the code.<br>
 Offers more readability along with reasonable size.</p>
